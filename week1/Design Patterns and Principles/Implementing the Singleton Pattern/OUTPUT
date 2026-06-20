@@ -1,0 +1,4 @@
+Logger initialized.
+[LOG]: This is the first log message.
+[LOG]: This is the second log message.
+Success: Both logger1 and logger2 references are the same instance.
