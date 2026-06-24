@@ -1,0 +1,52 @@
+Table CUSTOMERS created.
+
+Table LOANS created.
+
+
+1 row inserted.
+1 row inserted.
+1 row inserted.
+
+1 row inserted.
+1 row inserted.
+1 row inserted.
+
+Commit complete.
+
+
+
+PL/SQL procedure successfully completed.
+
+
+
+CUSTOMER_ID  CUSTOMER_NAME  AGE  INTEREST_RATE  BALANCE  ISVIP
+
+1            John           65      7            15000    FALSE
+
+2            Alex           40      9             5000    FALSE
+
+3            David          70      9            20000    FALSE
+
+
+
+PL/SQL procedure successfully completed.
+
+
+
+CUSTOMER_ID  CUSTOMER_NAME  AGE  INTEREST_RATE  BALANCE  ISVIP
+
+1            John           65      7            15000    TRUE
+
+2            Alex           40      9             5000    FALSE
+
+3            David          70      9            20000    TRUE
+
+
+
+Reminder : John Loan amount 50000 Due Date 04-JUL-2026
+
+Reminder : David Loan amount 70000 Due Date 14-JUL-2026
+
+
+
+PL/SQL procedure successfully completed.

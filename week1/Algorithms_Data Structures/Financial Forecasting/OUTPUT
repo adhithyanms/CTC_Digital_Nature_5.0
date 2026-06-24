@@ -1,0 +1,32 @@
+Future Value after 5 years = 1610.51
+
+Function Call:
+
+calculateFutureValue(1000,0.10,5)
+
+        |
+        ↓
+
+calculateFutureValue(1100,0.10,4)
+
+        |
+        ↓
+
+calculateFutureValue(1210,0.10,3)
+
+        |
+        ↓
+
+calculateFutureValue(1331,0.10,2)
+
+        |
+        ↓
+
+calculateFutureValue(1464,0.10,1)
+
+        |
+        ↓
+
+calculateFutureValue(1610,0.10,0)
+
+return result
